@@ -70,7 +70,7 @@
   :group 'multimedia)
 
 (defcustom  svg-icon-collections
-  '(("bootstrap" . "https://icons.getbootstrap.com/icons/%s.svg")
+  '(("bootstrap" . "https://icons.getbootstrap.com/assets/icons/%s.svg")
     ("material" . "https://raw.githubusercontent.com/Templarian/MaterialDesign/master/svg/%s.svg")
     ("octicons" . "https://raw.githubusercontent.com/primer/octicons/master/icons/%s-24.svg")
     ("boxicons" . "https://boxicons.com/static/img/svg/regular/bx-%s.svg"))
